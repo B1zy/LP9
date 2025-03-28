@@ -11,5 +11,5 @@ Notenziele:
 
 
 ## 28.03.25
-- [ ] LA_114_1738
+- [x] LA_114_1738
 - [ ] Portfolio React Webseite auf git pages hosten
