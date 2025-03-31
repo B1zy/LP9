@@ -18,7 +18,7 @@ Notenziele:
 
 
 ## 02.04.25
-- [ ] Portfolio React Webseite auf git pages hosten
+- [x] Portfolio React Webseite auf git pages hosten
 - [ ] Portfoliowebseite restructurieren
 
 
