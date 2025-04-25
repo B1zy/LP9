@@ -23,6 +23,6 @@ Notenziele:
 
 
 ## 04.04.25
-- [ ] Portfoliowebseite restructurieren (Projects unterwebseiten, navigation verbessern)
+- [x] Portfoliowebseite restructurieren (Projects unterwebseiten, navigation verbessern)
 - [ ] Portfoliowebseite restructurieren (In Hauptwebseite, Bildung und Berufserfahrung hinzufügen)
 
